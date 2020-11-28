@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(193, 57, 246);
+}
+p{
+    color: rgb(0, 255, 191);
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+}
+#mensajeqt{
+    color: rgb(0, 255, 191);
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+}
+h1{
+    color: rgb(0, 0, 80);
+    font-size: 40px;
+    font-family: fantasy;
+}
+ul{
+    color: rgb(67, 37, 238);
+    font-size: 40px;
+    font-family: fantasy;
+
+}
+.imagenes{
+     width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+#frutas{
+    color: turquoise;
+    font-size: 20px;
+}
+#carnes{
+    color: rgb(206, 33, 3);
+    font-size: 20px;
+}
+#verduras{
+    color: greenyellow;
+    font-size: 20px;
+}
+#csc{
+    color: lightskyblue;
+    font-size: 20px;
+}
