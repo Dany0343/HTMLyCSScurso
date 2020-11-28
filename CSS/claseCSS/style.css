@@ -1,0 +1,14 @@
+p{
+    color: rebeccapurple;
+    font-size: 40px;
+}
+/* class */
+.parrafo{
+    color: red;
+}
+
+/* ID */
+#texto{
+    color: yellow;
+    font-size: 24px;
+}
