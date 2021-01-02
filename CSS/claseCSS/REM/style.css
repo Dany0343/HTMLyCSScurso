@@ -1,0 +1,11 @@
+* {                         /*Desde aca*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}                          /*Hasta acá todo esto va SIEMPRE EN CSS para ser pros */
+p {
+    font-size: 1.6rem;
+}
