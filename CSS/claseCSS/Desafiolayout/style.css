@@ -7,7 +7,7 @@ html {
     font-size: 62.5%;
 }
 .nav {
-    background-color: rgb(207, 198, 198);
+    background-color: #0E0B16;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding-bottom: 6rem;
 }
@@ -16,7 +16,7 @@ html {
 }
 .nav .nav-left {
     font-size: 2.5rem;
-    color: black;
+    color: white;
 }
 .nav .nav-right li{
     display: inline-block;
@@ -31,7 +31,7 @@ html {
 }
 .parent{
     width: 100vw;
-    height: 100vh;
+    height: 81.4rem;
 }
 .parent section {
     float: left;
@@ -39,23 +39,23 @@ html {
 .parent .parent-left {
     width: 40rem;
     height: inherit;
-    background-color:lightpink;
+    background-color: #a239ca;
 }
 .parent-left .box {
     width: 37rem;
-    height: 20rem;
-    background-color: plum;
+    height: 19rem;
+    background-color: #E7DFDD;
     margin: 1rem;
     border-radius: 1rem;
 }
 .parent .parent-right {
-    width: 150.3rem;
+    width: 152rem;
     height: inherit;
-    background-color:gray;
+    background-color: #4717f6;
     font-size: 3rem;
 }
 footer {
-    background-color: yellowgreen;
+    background-color:#0E0B16;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 footer section {
@@ -64,8 +64,10 @@ footer section {
 footer .footer-left {
     font-size: 3rem;
     margin-left: 10rem;
+    color: white;
 }
 footer .footer-right {
     font-size: 3rem;
-    margin-left: 70%;
+    margin-left: 130rem;
+    color: white;
 }
