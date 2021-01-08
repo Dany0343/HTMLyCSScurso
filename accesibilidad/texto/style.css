@@ -5,7 +5,10 @@
 }
 html {
     font-size: 62.5%;
-} 
-img {
-    width: 100%;
+}
+h1 {
+    font-size: 3rem;
+}
+p {
+    font-size: 1.8rem;
 }
